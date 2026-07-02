@@ -11,13 +11,13 @@ export default ({ Component, pageProps }) => (
     <Layout>
       <Modal />
       <DefaultSeo
-        title="HỌC VIỆN CÔNG NGHỆ BƯU CHÍNH VIỄN THÔNG CỔNG THÔNG TIN ĐÀO TẠO"
-        description="Trang Web cung cấp thông tin về Học viện Công nghệ Bưu chính Viễn Thông"
+        title="HỌC VIỆN CHÍNH SÁCH VÀ PHÁT TRIỂN CỔNG THÔNG TIN ĐÀO TẠO"
+        description="Trang Web cung cấp thông tin về Học viện Chính sách và Phát triển"
         openGraph={{
           type: 'website',
           locale: 'vi_VN',
           url: 'https://tuyensinhptit.aisenote.com/',
-          site_name: 'HỌC VIỆN CÔNG NGHỆ BƯU CHÍNH VIỄN THÔNG CỔNG THÔNG TIN ĐÀO TẠO',
+          site_name: 'HỌC VIỆN CHÍNH SÁCH VÀ PHÁT TRIỂN CỔNG THÔNG TIN ĐÀO TẠO',
           images: [
             {
               url: 'https://portal.ptit.edu.vn/wp-content/uploads/2019/01/1-10.jpg',
